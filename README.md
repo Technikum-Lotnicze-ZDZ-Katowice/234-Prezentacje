@@ -36,7 +36,7 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
   
   * podaj źródła z których korzystasz
   
-  * postaraj się o własne wnioski niezależnie czy są one zgodne ze źródłem z którego korzystasz
+  * postaraj się o własne wnioski niezależnie czy są one zgodne czy nie ze sformułowanymi w źródłach z których korzystasz.
   
   * osoby nieobecne w dniu 9.12 mogą wysłać prezentację zapisując na dysku google, jdnak bez zaprezentowania prezentacji jednak wtedy maksymalna ocena to dobry
 
