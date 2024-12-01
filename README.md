@@ -32,7 +32,7 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
 
   , albo przynieść na własnym pendrive;
   
-  * przygotuj siena 5 min wypowiedź
+  * przygotuj się na 5 min wypowiedź
   
   * podaj źródła z których korzystasz
   
