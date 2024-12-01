@@ -15,9 +15,9 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
 <!-- https://wybory.gov.pl/index/index.html -->
 
 5. Jakie konskwencje może mieć odejście od paliw kopalnych do wytwarzania energii w Polsce? Przedstaw na wykresie/wykresach udział źródeł odnawialnych w produkcji energii w zestawieniu dziennym i rocznym.
-6. <!-- https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5485/10/4/1/energia_ze_zrodel_odnawialnych_w_2020_r..pdf -->
+<!-- https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5485/10/4/1/energia_ze_zrodel_odnawialnych_w_2020_r..pdf -->
 
-7. Przedstaw na wykresie ceny złota, dolara euro i złotówki na przestrzeni ostatnich kilkudziesięciu lat.
+8. Przedstaw na wykresie ceny złota, dolara euro i złotówki na przestrzeni ostatnich kilkudziesięciu lat.
 <!-- https://nbp.pl/statystyka-i-sprawozdawczosc/kursy -->
 
 ### Kryteria oceny:
