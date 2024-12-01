@@ -38,4 +38,6 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
   
   * postaraj się o własne wnioski niezależnie czy są one zgodne ze źródłem z którego korzystasz
   
-  * osoby nieobecne w dniu 9.12 mogą wysłać prezentację
+  * osoby nieobecne w dniu 9.12 mogą wysłać prezentację zapisując na dysku google, jdnak bez zaprezentowania prezentacji jednak wtedy maksymalna ocena to dobry
+
+  * Przekroczenie terminu 9.12.2024 owocuje obniżeniem maksymalnej oceny
