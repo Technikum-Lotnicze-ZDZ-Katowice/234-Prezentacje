@@ -20,6 +20,11 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
 8. Przedstaw na wykresie ceny złota, dolara euro i złotówki na przestrzeni ostatnich kilkudziesięciu lat.
 <!-- https://nbp.pl/statystyka-i-sprawozdawczosc/kursy -->
 
+<!--
+
+### Alternatywny temat: 
+Zaproponuj temat prezentacji dotyczącej jednego z zagrożeń, na jakie są narażeni uzytkownicy internetu. Przygotuj prezetację PowerPoint na temat jednego/lub kilku zagrożeń w sieci.
+-->
 ### Kryteria oceny:
 
   prezentację można wykonać samodzielnie lub dwuosobowo
@@ -40,4 +45,6 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
   
   * osoby nieobecne w dniu 9.12.2024 mogą wysłać prezentację zapisując na dysku google, jdnak bez zaprezentowania prezentacji jednak wtedy maksymalna ocena to dobry
 
-  * Przekroczenie terminu 9.12.2024 owocuje obniżeniem maksymalnej oceny
+  * Przekroczenie terminu 9.12.2024 owocuje obniżeniem maksymalnej ocen
+
+
