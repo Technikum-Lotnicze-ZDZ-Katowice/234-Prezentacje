@@ -19,9 +19,10 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
 
 ### Kryteria oceny:
 
- - prezentację można wykonać samodzielnie lub dwuosobowo
+ 
+  prezentację można wykonać samodzielnie lub dwuosobowo
 
- - prezentację zapisz na dysku Google
+ * prezentację zapisz na dysku Google
 <br>
 
  [1e](https://drive.google.com/drive/folders/11XycYjXIGGrUwkTPo0wS9cIGp920LpMU?usp=drive_link) <br>
@@ -32,10 +33,10 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
   
   , albo przynieść na własnym pendrive;
   
-   - przygotuj siena 5 min wypowiedź
+  * przygotuj siena 5 min wypowiedź
   
-   - podaj źródła z których korzystasz
+  * podaj źródła z których korzystasz
   
-   - postaraj się o własne wnioski niezależnie czy są one zgodne ze źródłem z którego korzystasz
+  * postaraj się o własne wnioski niezależnie czy są one zgodne ze źródłem z którego korzystasz
   
-   - osoby nieobecne w dniu 9.12 mogą wysłać prezentację
+  * osoby nieobecne w dniu 9.12 mogą wysłać prezentację
