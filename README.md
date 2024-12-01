@@ -29,6 +29,8 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
  [1A](https://drive.google.com/drive/folders/1ZtFTfVIyj26MuC-0Zo2PmDpLRLo5GRwb?usp=drive_link) 
  [1a](https://drive.google.com/drive/folders/14RUnNPNfyAM-3962h9GXlt6wEfeyNeg0?usp=drive_link)
   , albo przynieść na własnym pendrive;
+
+  * jeśli to możliwe wygeneruj wykres na podstawie danych źródłowych (zamiast pobierać gotowy wykres)
   
   * przygotuj się na 5 min wypowiedź
   
