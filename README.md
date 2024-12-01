@@ -15,7 +15,7 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
 <!-- https://wybory.gov.pl/index/index.html -->
 
 5. Przedstaw na wykresie ceny złota, dolara euro i złotówki na przestrzeni ostatnich kilkudziesięciu lat.
-<?-- https://nbp.pl/statystyka-i-sprawozdawczosc/kursy/ -->
+<?-- https://nbp.pl/statystyka-i-sprawozdawczosc/kursy -->
 
 ### Kryteria oceny:
 
