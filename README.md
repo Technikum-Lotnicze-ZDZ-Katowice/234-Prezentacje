@@ -18,7 +18,9 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
 <?-- https://nbp.pl/statystyka-i-sprawozdawczosc/kursy/ -->
 
 ### Kryteria oceny:
+
 - prezentację można wykonać samodzielnie lub dwuosobowo
+
 - prezentację zapisz na dysku Google
 <br>
 
@@ -29,7 +31,11 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
 
   
   , albo przynieść na własnym pendrive;
+  
   - przygotuj siena 5 min wypowiedź
+  
   - podaj źródła z których korzystasz
+  
   - postaraj się o własne wnioski niezależnie czy są one zgodne ze źródłem z którego korzystasz
+  
   - osoby nieobecne w dniu 9.12 mogą wysłać prezentację
