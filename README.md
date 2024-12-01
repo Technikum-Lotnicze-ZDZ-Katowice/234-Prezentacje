@@ -14,6 +14,8 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
 4. Przeanalizuj wyniki głosowania Polaków w wyborach w ostatnich kilkunastu latach. Przestaw wyniki głosowań na wykresie/wykresach. Czy znajdziesz korelację wyników wyborów z wydarzeniami historycznymi/społecznymi/medialnymi?
 <!-- https://wybory.gov.pl/index/index.html -->
 
+5. Jakie konskwencje może mieć odejście od paliw kopalnych do wytwarzania energii w Polsce? Przedstaw na wykresie/wykresach udział źródeł odnawialnych w produkcji energii w zestawieniu dziennym i rocznym.
+
 5. Przedstaw na wykresie ceny złota, dolara euro i złotówki na przestrzeni ostatnich kilkudziesięciu lat.
 <!-- https://nbp.pl/statystyka-i-sprawozdawczosc/kursy -->
 
@@ -38,6 +40,6 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
   
   * postaraj się o własne wnioski niezależnie czy są one zgodne czy nie ze sformułowanymi w źródłach z których korzystasz.
   
-  * osoby nieobecne w dniu 9.12 mogą wysłać prezentację zapisując na dysku google, jdnak bez zaprezentowania prezentacji jednak wtedy maksymalna ocena to dobry
+  * osoby nieobecne w dniu 9.12.2024 mogą wysłać prezentację zapisując na dysku google, jdnak bez zaprezentowania prezentacji jednak wtedy maksymalna ocena to dobry
 
   * Przekroczenie terminu 9.12.2024 owocuje obniżeniem maksymalnej oceny
