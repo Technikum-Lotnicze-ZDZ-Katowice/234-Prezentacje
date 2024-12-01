@@ -19,4 +19,4 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
 
 ### Kryteria oceny:
 - przygotuj się na wypowiedź ok 5 min
-- prezentację zapisz na dysku Google ![1a](https://drive.google.com/drive/folders/11XycYjXIGGrUwkTPo0wS9cIGp920LpMU?usp=drive_link), albo przynieść na własnym pendrive
+- prezentację zapisz na dysku Google [1a](https://drive.google.com/drive/folders/11XycYjXIGGrUwkTPo0wS9cIGp920LpMU?usp=drive_link), albo przynieść na własnym pendrive
