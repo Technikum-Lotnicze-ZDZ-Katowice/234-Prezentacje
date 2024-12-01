@@ -18,12 +18,18 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
 <?-- https://nbp.pl/statystyka-i-sprawozdawczosc/kursy/ -->
 
 ### Kryteria oceny:
+- prezentację można wykonać samodzielnie lub dwuosobowo
 - prezentację zapisz na dysku Google
 <br>
-[1e](https://drive.google.com/drive/folders/11XycYjXIGGrUwkTPo0wS9cIGp920LpMU?usp=drive_link) <br>
+
+ [1e](https://drive.google.com/drive/folders/11XycYjXIGGrUwkTPo0wS9cIGp920LpMU?usp=drive_link) <br>
  [1E](https://drive.google.com/drive/folders/1y9zdZvpfhf5KW2bGVN0xbmmKqPvmygYE?usp=drive_link) <br>
  [1A](https://drive.google.com/drive/folders/1ZtFTfVIyj26MuC-0Zo2PmDpLRLo5GRwb?usp=drive_link) <br>
  [1a](https://drive.google.com/drive/folders/14RUnNPNfyAM-3962h9GXlt6wEfeyNeg0?usp=drive_link) <br>
 
   
-  , albo przynieść na własnym pendrive
+  , albo przynieść na własnym pendrive;
+  - przygotuj siena 5 min wypowiedź
+  - podaj źródła z których korzystasz
+  - postaraj się o własne wnioski niezależnie czy są one zgodne ze źródłem z którego korzystasz
+  - osoby nieobecne w dniu 9.12 mogą wysłać prezentację
