@@ -12,7 +12,7 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
 <!-- https://eko.wprost.pl/10429366/prof-piotr-wolanski-o-zmianach-klimatu-winna-zmienna-aktywnosc-slonca.html -->
 
 4. Przeanalizuj wyniki głosowania Polaków w wyborach w ostatnich kilkunastu latach. Przestaw wyniki głosowań na wykresie/wykresach. Czy znajdziesz korelację wyników wyborów z wydarzeniami historycznymi/społecznymi/medialnymi?
-<?-- https://wybory.gov.pl/index/index.html -->
+<!-- https://wybory.gov.pl/index/index.html -->
 
 5. Przedstaw na wykresie ceny złota, dolara euro i złotówki na przestrzeni ostatnich kilkudziesięciu lat.
 <?-- https://nbp.pl/statystyka-i-sprawozdawczosc/kursy/ -->
