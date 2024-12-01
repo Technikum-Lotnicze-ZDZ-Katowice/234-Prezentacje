@@ -24,12 +24,10 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
 
   prezentację można wykonać samodzielnie lub dwuosobowo
 
- * prezentację zapisz na dysku Google
-
- [1e](https://drive.google.com/drive/folders/11XycYjXIGGrUwkTPo0wS9cIGp920LpMU?usp=drive_link) <br>
- [1E](https://drive.google.com/drive/folders/1y9zdZvpfhf5KW2bGVN0xbmmKqPvmygYE?usp=drive_link) <br>
- [1A](https://drive.google.com/drive/folders/1ZtFTfVIyj26MuC-0Zo2PmDpLRLo5GRwb?usp=drive_link) <br>
- [1a](https://drive.google.com/drive/folders/14RUnNPNfyAM-3962h9GXlt6wEfeyNeg0?usp=drive_link) <br>
+ * prezentację zapisz na dysku Google [1e](https://drive.google.com/drive/folders/11XycYjXIGGrUwkTPo0wS9cIGp920LpMU?usp=drive_link) 
+ [1E](https://drive.google.com/drive/folders/1y9zdZvpfhf5KW2bGVN0xbmmKqPvmygYE?usp=drive_link) 
+ [1A](https://drive.google.com/drive/folders/1ZtFTfVIyj26MuC-0Zo2PmDpLRLo5GRwb?usp=drive_link) 
+ [1a](https://drive.google.com/drive/folders/14RUnNPNfyAM-3962h9GXlt6wEfeyNeg0?usp=drive_link) 
 
   
 
