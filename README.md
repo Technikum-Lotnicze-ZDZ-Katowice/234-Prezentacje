@@ -14,17 +14,20 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
 3. Jakie są przyczyny zmian klimatu? Przestaw na wykresie/wykresach zmiany temparatury na ziemi w możliwie długim okresie czasu oraz skoreluj wyniki z mierzalnymi czynnikami (np działalności człowieka i/lub aktywności słonecznej).
 <!-- https://eko.wprost.pl/10429366/prof-piotr-wolanski-o-zmianach-klimatu-winna-zmienna-aktywnosc-slonca.html -->
 
+[Olek Spiegel i Kuba Adamik]
+
 4. Przeanalizuj wyniki głosowania Polaków w wyborach w ostatnich kilkunastu latach. Przestaw wyniki głosowań na wykresie/wykresach. Czy znajdziesz korelację wyników wyborów z wydarzeniami historycznymi/społecznymi/medialnymi?
 <!-- https://wybory.gov.pl/index/index.html -->
+[Bartek Serafin]
 
 5. Jakie konskwencje może mieć odejście od paliw kopalnych do wytwarzania energii w Polsce? Przedstaw na wykresie/wykresach udział źródeł odnawialnych w produkcji energii obecnie w zestawieniu dziennym i rocznym.
 <!-- https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5485/10/4/1/energia_ze_zrodel_odnawialnych_w_2020_r..pdf -->
-[Oskar Gondzik]
+[Oskar Gondzik] [Dominik Joni]
 
 6. Przedstaw na wykresie ceny złota, dolara euro i złotówki na przestrzeni ostatnich kilkudziesięciu lat.
 <!-- https://nbp.pl/statystyka-i-sprawozdawczosc/kursy -->
 
-[Lena Kiszewska]
+[Lena Kiszewska] [Wincenty i Ksawery]
 
 <!--
 
