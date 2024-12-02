@@ -27,8 +27,8 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
 6. Przedstaw na wykresie ceny złota, dolara euro i złotówki na przestrzeni ostatnich kilkudziesięciu lat.
 <!-- https://nbp.pl/statystyka-i-sprawozdawczosc/kursy -->
 
-[Lena Kiszewska] [Wincenty i Ksawery] [Maciek Chabior] [Wojtek Sobczyk, Szymon Woźnica]
-
+[Lena Kiszewska] [Wincenty i Ksawery] [Maciek Chabior] [Wojtek Sobczyk, Szymon Woźnica] [Bartek Sebastian]
+ 
 <!--
 
 ### Alternatywny temat: 
