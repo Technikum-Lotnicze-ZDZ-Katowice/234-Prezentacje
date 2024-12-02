@@ -4,7 +4,7 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
 
 1. Czy samochody elektryczne to przyszłość? Wymień zalety i wady z punktu widzenia mieszkańca Polski. (Przestaw na wykresie/wykresach dane sprzedaży samochodów elektrycznych w polsce).
 <!-- https://e.autokult.pl/ktore-elektryki-najbardziej-lubia-polacy-jedna-marka-goruje-nad-reszta,7022235860728768a -->
-[Maja Stryjak] [Igor I Kamil Krzysztofik]
+[Maja Stryjak] [Igor I Kamil Krzysztofik] [Igor Fabiański]
 
 2. Co to jest deindustralizacja i jakie może mieć ona skutki? Przedstaw na wykresie/wykresach dane produkcji wybranych krajów europy na przestrzeni ostatnich 20 lat.
 <!-- https://kig.pl/aktualnosc-ekonomicz/wyniki-przemyslu-w-sierpniu-2024/ -->
