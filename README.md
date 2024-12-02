@@ -9,7 +9,7 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
 2. Co to jest deindustralizacja i jakie może mieć ona skutki? Przedstaw na wykresie/wykresach dane produkcji wybranych krajów europy na przestrzeni ostatnich 20 lat.
 <!-- https://kig.pl/aktualnosc-ekonomicz/wyniki-przemyslu-w-sierpniu-2024/ -->
 
-[Max Czerniam, Amelia Zbierska]
+[Max Czerniam, Amelia Zbierska] [Klaudiusz Weinstein]
 
 3. Jakie są przyczyny zmian klimatu? Przestaw na wykresie/wykresach zmiany temparatury na ziemi w możliwie długim okresie czasu oraz skoreluj wyniki z mierzalnymi czynnikami (np działalności człowieka i/lub aktywności słonecznej).
 <!-- https://eko.wprost.pl/10429366/prof-piotr-wolanski-o-zmianach-klimatu-winna-zmienna-aktywnosc-slonca.html -->
