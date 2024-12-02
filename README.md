@@ -18,7 +18,7 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
 
 4. Przeanalizuj wyniki głosowania Polaków w wyborach w ostatnich kilkunastu latach. Przestaw wyniki głosowań na wykresie/wykresach. Czy znajdziesz korelację wyników wyborów z wydarzeniami historycznymi/społecznymi/medialnymi?
 <!-- https://wybory.gov.pl/index/index.html -->
-[Bartek Serafin]
+[Bartek Serafin] [Dominik Irla Maks Wanot]
 
 5. Jakie konskwencje może mieć odejście od paliw kopalnych do wytwarzania energii w Polsce? Przedstaw na wykresie/wykresach udział źródeł odnawialnych w produkcji energii obecnie w zestawieniu dziennym i rocznym.
 <!-- https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5485/10/4/1/energia_ze_zrodel_odnawialnych_w_2020_r..pdf -->
