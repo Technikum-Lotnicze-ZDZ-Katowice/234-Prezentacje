@@ -44,7 +44,7 @@ Zaproponuj temat prezentacji dotyczącej jednego z zagrożeń, na jakie są nara
  [1a](https://drive.google.com/drive/folders/14RUnNPNfyAM-3962h9GXlt6wEfeyNeg0?usp=drive_link)
   , albo przynieść na własnym pendrive;
 
-  * jeśli to możliwe wygeneruj wykres na podstawie danych źródłowych (zamiast pobierać gotowy wykres)
+  * jeśli to możliwe wygeneruj wykres na podstawie danych źródłowych (zamiast pobierać gotowy wykres). Zapisz skoroszyt Excella w którym wykonywane były wykresy razem z prezentacją.
   
   * przygotuj się na 5 min wypowiedź
   
