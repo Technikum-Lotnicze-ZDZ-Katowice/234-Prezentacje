@@ -4,6 +4,7 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
 
 1. Czy samochody elektryczne to przyszłość? Wymień zalety i wady z punktu widzenia mieszkańca Polski. (Przestaw na wykresie/wykresach dane sprzedaży samochodów elektrycznych w polsce).
 <!-- https://e.autokult.pl/ktore-elektryki-najbardziej-lubia-polacy-jedna-marka-goruje-nad-reszta,7022235860728768a -->
+[Maja Stryjak]
 
 2. Co to jest deindustralizacja i jakie może mieć ona skutki? Przedstaw na wykresie/wykresach dane produkcji wybranych krajów europy na przestrzeni ostatnich 20 lat.
 <!-- https://kig.pl/aktualnosc-ekonomicz/wyniki-przemyslu-w-sierpniu-2024/ -->
@@ -16,6 +17,7 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
 
 5. Jakie konskwencje może mieć odejście od paliw kopalnych do wytwarzania energii w Polsce? Przedstaw na wykresie/wykresach udział źródeł odnawialnych w produkcji energii obecnie w zestawieniu dziennym i rocznym.
 <!-- https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5485/10/4/1/energia_ze_zrodel_odnawialnych_w_2020_r..pdf -->
+[Oskar Gondzik]
 
 6. Przedstaw na wykresie ceny złota, dolara euro i złotówki na przestrzeni ostatnich kilkudziesięciu lat.
 <!-- https://nbp.pl/statystyka-i-sprawozdawczosc/kursy -->
