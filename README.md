@@ -28,6 +28,8 @@ Przygotuj prezentację PowerPoint na poniższy temat. Opracuj treść i dane w o
 <!-- https://nbp.pl/statystyka-i-sprawozdawczosc/kursy -->
 
 [Lena Kiszewska] [Wincenty i Ksawery] [Maciek Chabior] [Wojtek Sobczyk, Szymon Woźnica] [Bartek Sebastian]
+
+7. Rozwój trnsportu miejskiego  [Kamil i Igor]
  
 <!--
 
