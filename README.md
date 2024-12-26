@@ -53,6 +53,13 @@ Zaproponuj temat prezentacji dotyczącej jednego z zagrożeń, na jakie są nara
   * podaj źródła z których korzystasz
   
   * postaraj się o własne wnioski niezależnie czy są one zgodne czy nie ze sformułowanymi w źródłach z których korzystasz.
+  * 
+
+
+
+  ### Literatura
+
+  - https://www.youtube.com/watch?v=S9HfuM-sYxQ
   
   * osoby nieobecne w dniu 9.12.2024 mogą wysłać prezentację zapisując na dysku google, jdnak bez zaprezentowania prezentacji jednak wtedy maksymalna ocena to dobry
 
