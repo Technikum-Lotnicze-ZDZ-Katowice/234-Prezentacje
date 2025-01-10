@@ -64,4 +64,5 @@ Zaproponuj temat prezentacji dotyczącej jednego z zagrożeń, na jakie są nara
 
   - https://www.youtube.com/watch?v=S9HfuM-sYxQ
   - https://www.youtube.com/watch?v=Xh07Q0NCITc
+  - https://www.youtube.com/watch?v=5Q9rmamgIa0
   
